@@ -1,0 +1,6 @@
+ccxt>=4.0.0
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+ast-grep-py>=0.12.0
+rich>=13.0.0
+click>=8.1.0
